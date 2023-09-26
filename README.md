@@ -1,1 +1,1 @@
-# Kumpulan tool-tool dann penjelasan tentang CTF
+# Kumpulan tool-tool dan penjelasan tentang CTF
