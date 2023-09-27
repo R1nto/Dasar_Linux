@@ -9,7 +9,6 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 ```
 sudo apt-get update; sudo apt-get upgrade -y
 ```
-### SUDO
-
-**sudo** singkatan dari Super User Do, artinya menjalankan command dengan root priviledge
-
+**sudo** singkatan dari _super user do_ artinya menjalankan command dengan root priviledge
+**apt** singkatan dari _advance packaging tool_ command yang digunakan untuk menginstall, update, upgrade aplikasi sampai seluruh sistem linux
+**update** argumen yang terdapat dalam apt command, digunakan saat ingin meng update _package list index_
