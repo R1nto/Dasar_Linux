@@ -6,9 +6,9 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 ## Basic Command 
 
 ### Updating 
-'''
+```
 sudo apt-get update; sudo apt-get upgrade -y
-'''
+```
 ### SUDO
 
 **sudo** singkatan dari Super User Do, artinya menjalankan command dengan root priviledge
