@@ -6,9 +6,6 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 ## Basic Command 
 
 ### Installing, Updating, Removing  
-```
-sudo apt-get update; sudo apt-get upgrade -y
-```
 **sudo** singkatan dari _super user do_ artinya menjalankan command dengan root priviledge <br />
 **apt/apt-get** singkatan dari _advance packaging tool_ command yang digunakan untuk menginstall, update, upgrade aplikasi sampai seluruh sistem linux<br />
 **search**
@@ -16,6 +13,14 @@ sudo apt-get update; sudo apt-get upgrade -y
 **update** argumen yang terdapat dalam apt command, digunakan saat ingin meng update _package list index_<br />
 **upgrade** argumen untuk memasang list yang sudah di update<br/>
 **autoremove**
+***Usage***
+```
+sudo apt update
+sudo apt upgrade
+sudo apt search appname
+sudo apt install appname
+sudo apt autoremove appname
+```
 ###I/O
 
 ```
