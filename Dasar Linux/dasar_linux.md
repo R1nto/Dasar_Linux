@@ -9,33 +9,26 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 **sudo** singkatan dari _super user do_ artinya menjalankan command dengan root priviledge <br />
 **apt/apt-get** singkatan dari _advance packaging tool_ command yang digunakan untuk menginstall, update, upgrade aplikasi sampai seluruh sistem linux<br />
 **search**<br/>
+```
+sudo apt search appname
+```
 **install**<br/>
+```
+sudo apt install appname
+```
 **update** argumen yang terdapat dalam apt command, digunakan saat ingin meng update _package list index_<br />
-**upgrade** argumen untuk memasang list yang sudah di update<br/>
-**autoremove**<br/>
-***Usage***<br/>
 ```
 sudo apt update
 ```
-
+**upgrade** argumen untuk memasang list yang sudah di update<br/>
 ```
 sudo apt upgrade
-
 ```
-
-```
-sudo apt search appname
-
-```
-
-```
-sudo apt install appname
-
-```
-
+**autoremove**<br/>
 ```
 sudo apt autoremove appname
 ```
+
 ###I/O
 
 **touch**
