@@ -28,10 +28,7 @@ sudo apt upgrade
 ```
 sudo apt autoremove appname
 ```
-detailnya, gunakan
-```
-apt -h
-```
+> detailnya, gunakan **apt -h**
 ###I/O
 
 **touch**
