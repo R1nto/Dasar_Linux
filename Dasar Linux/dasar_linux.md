@@ -8,13 +8,13 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 ### Installing, Updating, Removing  
 **sudo** singkatan dari _super user do_ artinya menjalankan command dengan root priviledge <br />
 **apt/apt-get** singkatan dari _advance packaging tool_ command yang digunakan untuk menginstall, update, upgrade aplikasi sampai seluruh sistem linux<br />
-**search**
-**install**
+**search**<br/>
+**install**<br/>
 **update** argumen yang terdapat dalam apt command, digunakan saat ingin meng update _package list index_<br />
 **upgrade** argumen untuk memasang list yang sudah di update<br/>
-**autoremove**
-***Usage***
-```
+**autoremove**<br/>
+***Usage***<br/>
+```console
 sudo apt update
 sudo apt upgrade
 sudo apt search appname
@@ -23,6 +23,7 @@ sudo apt autoremove appname
 ```
 ###I/O
 
+**touch**
 ```
 touch filename.file
 ```
