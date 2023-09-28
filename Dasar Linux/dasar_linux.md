@@ -14,11 +14,26 @@ tentu jika kalian sudah mengerti atau sudah menggunakan linux untuk waktu yang c
 **upgrade** argumen untuk memasang list yang sudah di update<br/>
 **autoremove**<br/>
 ***Usage***<br/>
-```console
+```
 sudo apt update
+```
+
+```
 sudo apt upgrade
+
+```
+
+```
 sudo apt search appname
+
+```
+
+```
 sudo apt install appname
+
+```
+
+```
 sudo apt autoremove appname
 ```
 ###I/O
