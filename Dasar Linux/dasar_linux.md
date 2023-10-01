@@ -28,12 +28,48 @@ sudo apt upgrade
 ```console
 sudo apt autoremove appname
 ```
-> detailnya, gunakan **apt -h**<br/>
+> untuk copy/paste di terminal gunakan **ctrl+shift+c/v**
+> detail dari penggunaan tool apt, gunakan **apt -h**<br/>
 
-###I/O
+### I/O
 
-**touch**
-```
-touch filename.file
-```
+- **mkdir**
+- **cd**
+- **touch**
+- **ls**
+- **echo**
+- **rm**
+- **mv**
+- **cp**
 
+## File type
+
+- **txt**
+- **py**
+- **jar**
+- **cpp**
+- **c**
+- **bin**
+- **exe**
+- **sh**
+- **asm**
+- **html**
+- **js**
+- **json**
+- **css**
+- **php**
+- **ne/enc**
+
+## Tools
+
+- **gedit**
+- **nano**
+- **vi/vim**
+- **gdb**
+- **wget**
+- **strings**
+- **curl**
+- **git**
+- **nc**
+- **ftp**
+- 
