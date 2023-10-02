@@ -38,6 +38,7 @@ sudo apt autoremove appname
 - **touch**
 - **ls**
 - **echo**
+- **cat**
 - **rm**
 - **mv**
 - **cp**
@@ -59,6 +60,8 @@ sudo apt autoremove appname
 - **css**
 - **php**
 - **ne/enc**
+- **zip/7z**
+- **tar**
 
 ## Tools
 
